@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font: normal normal medium 50px/59px Raleway;
+    background: #000000 0% 0% no-repeat padding-box;
+  }
+
+  .caracteristicas {
+    text-align: center;
+    color: #ffffff;
+    font: normal normal medium 40px/47px Raleway;
+    padding: 3.125rem;
+    white-space: nowrap;
+    /*1E1A13, a4452c*/
+    background: #1E1A13 0% 0% no-repeat padding-box;
+  }
+
+  .ordCar {
+    padding: 2rem 0 2rem 0;
+    width: 30%;
+    font: normal normal 300 24px/29px Raleway;
+  }
+
+  .fdoImgSmll {
+    color: #ffffff;
+    background: #000f08 0% 0% no-repeat padding-box;
+  }
+
+  .imgSmll  {
+    padding: 4rem 0 4rem 0;
+    display: inline-block;
+    width: 90%;
+    vertical-align: middle;
+    background: #000f08 0% 0% no-repeat padding-box;
+  }
